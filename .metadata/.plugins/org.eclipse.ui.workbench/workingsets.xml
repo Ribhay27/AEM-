@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1717433862665_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1717433862698_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1717434734901_3" label="practice" name="practice">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/practice" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/practice.all" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/practice.core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/practice.ui.frontend" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/practice.ui.apps" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/practice.ui.apps.structure" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/practice.ui.config" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/practice.ui.content" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/practice.it.tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/practice.dispatcher.cloud" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/practice.ui.tests" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1717433866709_2" label="Window Working Set" name="Aggregate for window 1717433866709"/>
+</workingSetManager>
